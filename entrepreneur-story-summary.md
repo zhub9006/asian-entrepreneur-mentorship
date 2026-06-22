@@ -1,81 +1,83 @@
-# Entrepreneur Story: Dr. Lisa Su — From Immigrant Child to Semiconductor Trailblazer
+# Entrepreneur Story: Brian Wong — From Skipping Grades to Rewriting the Rules
 
-## A Non-Traditional Career Path That Redefined an Industry
+## Quick Profile
 
----
-
-## At a Glance
-
-| | |
-|---|---|
-| **Name** | Dr. Lisa Tzwu-Fang Su |
-| **Born** | November 7, 1969 — Tainan, Taiwan |
-| **Current Role** | President & CEO, Advanced Micro Devices (AMD) |
-| **Claim to Fame** | First woman to lead a major semiconductor company; transformed AMD from near-bankruptcy to a $200B+ powerhouse |
+| Detail | Info |
+|--------|------|
+| **Name** | Brian Wong |
+| **Born** | April 14, 1991, Vancouver, Canada |
+| **Background** | Chinese-Canadian |
+| **Company** | Kiip (co-founded 2010, acquired 2019) |
+| **Education** | Graduated from University of British Columbia business school at age 18 (skipped 4 grades) |
+| **Book** | *The Fairly Unfair Advantage* (2016) — on shortcuts to entrepreneurial success |
 
 ---
 
-## The Non-Traditional Path
+## The Story
 
-### Early Life
-Lisa Su was born in Tainan, Taiwan, and immigrated to the United States with her parents and brother when she was just two years old. Growing up, she developed a deep curiosity for how things worked — she would take apart electronics as a child, long before she knew what engineering was.
+### Early Life: Accelerated but Constrained
 
-### Defying Expectations
-In many Asian immigrant families, the expected career paths are medicine, law, or finance. Lisa chose electrical engineering — a field with very few women, let alone Asian women in leadership. She pursued her passion despite the double barrier of gender and cultural expectations.
+Brian Wong grew up in a Chinese-Canadian household in Vancouver. Academically gifted, he skipped four grades and entered the University of British Columbia's business school at just 14 years old, graduating at 18. By every traditional measure, he was the "model Asian kid" — brilliant, disciplined, and on a path his family could proudly celebrate.
 
-### Education
-- **B.S., M.S., and Ph.D. in Electrical Engineering** — Massachusetts Institute of Technology (MIT)
-- Her doctoral research focused on silicon-on-insulator (SOI) technology, which would later become foundational in semiconductor manufacturing.
+But beneath the surface, Wong felt the weight of conformity. In interviews, he has spoken openly about rebelling against his "conformist Asian upbringing" — the cultural expectation to follow a predictable, respectable path in finance, medicine, or engineering. He didn't want to just be excellent within a system designed by others; he wanted to build something of his own.
 
-### Career Trajectory
-1. **Texas Instruments** — Started as a member of the technical staff, gaining deep semiconductor expertise.
-2. **IBM** — Spent over a decade rising through the ranks, eventually becoming Vice President of the Semiconductor Research and Development Center. She oversaw the development of the silicon-on-insulator technology and led the team that created the Cell processor (used in the PlayStation 3).
-3. **Freescale Semiconductor** — Served as Senior Vice President and General Manager of Networking and Multimedia, broadening her business leadership experience.
-4. **AMD (2012–present)** — Joined as Senior Vice President and General Manager of Global Business Units. Promoted to COO in 2014, then to President and CEO later that same year — at a time when AMD was struggling to survive.
+### The Pivot: From Digg to Kiip
 
-### The Turnaround
-When Lisa Su took over AMD in 2014, the company was deeply unprofitable and losing market share to Intel and NVIDIA. Her bold decisions:
-- Pivoted AMD toward high-performance computing and data center markets.
-- Launched the **Ryzen** processor line (2017), which disrupted Intel's dominance in desktop CPUs.
-- Led the development of **EPYC** server chips, capturing major data center market share.
-- Oversaw AMD's acquisition of **Xilinx** (2022) for $49 billion, expanding into adaptive computing.
-- Under her leadership, AMD's stock price rose from under $2 to over $200, making it one of the greatest corporate turnarounds in tech history.
+After graduation, Wong landed a job at Digg, the then-popular social news platform, working in business development. He moved to San Francisco — a world away from the expectations of his Vancouver community. But when Digg underwent a major restructuring in 2010, Wong was laid off.
 
----
+For many, this would have been a moment to retreat to a "safe" career. Instead, Wong saw it as an opening. Rather than applying to another corporate role, he co-founded **Kiip** (pronounced "keep") — a mobile advertising platform that turned in-game achievements into real-world brand rewards. The idea was radical: instead of interrupting gamers with annoying ads, Kiip rewarded them at moments of accomplishment.
 
-## Key Lessons for Young Asian Entrepreneurs
+This was a non-traditional path in multiple ways:
+- **Industry:** Mobile advertising was nascent and unproven in 2010.
+- **Age:** Wong was just 19 when he founded Kiip, making him one of the youngest funded entrepreneurs in Silicon Valley.
+- **Cultural expectation:** Starting a risky tech company instead of climbing a corporate ladder was precisely the kind of path his upbringing would have warned against.
 
-### 1. Follow Your Curiosity, Not Just Convention
-Lisa's childhood habit of taking things apart became the foundation of a career that reshaped an industry. Don't dismiss your unconventional interests — they may be your competitive advantage.
+### Building and Scaling Kiip
 
-### 2. Embrace Being the "Only One"
-As an Asian woman in a male-dominated field, Lisa was often the only person who looked like her in the room. She turned that into a strength, not a limitation. Your unique perspective is your superpower.
+Kiip raised over **$40 million** in venture capital from firms including True Ventures, Verizon Ventures, Amex Ventures, and Interpublic Group. The platform reached over **10,000 apps** and became one of the largest mobile advertising platforms in the world.
 
-### 3. Take the Hard Jobs Nobody Wants
-AMD was on the brink of collapse when Lisa accepted the CEO role. The willingness to take on difficult, high-risk challenges is what separates leaders from managers.
+Wong was named to **Forbes' 30 Under 30** list and became a prominent voice in the tech community. He wasn't just surviving outside the traditional path — he was redefining what success could look like for young Asian entrepreneurs.
 
-### 4. Think Long-Term, Act Boldly
-Lisa's strategy at AMD was not about short-term fixes. She made bold, multi-year bets on chip architecture that paid off spectacularly. Patience and conviction are entrepreneurial virtues.
+### The Book: Owning the "Unfair Advantage"
 
-### 5. Bridge Technical Depth with Business Acumen
-Lisa's technical expertise gave her credibility, but it was her ability to translate that into business strategy that made her transformational. The best entrepreneurs are bilingual — fluent in both technology and business.
+In 2016, Wong published *The Fairly Unfair Advantage*, a book that reframes what people call "unfair advantages" as simply different starting points that can be leveraged. For Wong, his accelerated education, his cultural background, and even his outsider status in Silicon Valley were not liabilities — they were edges.
+
+This message is particularly powerful for Asian entrepreneurs who may feel their background is a constraint rather than a resource. Wong's argument: your non-traditional path isn't a disadvantage — it's your competitive edge.
+
+### Acquisition and Beyond
+
+Kiip was acquired in 2019. Wong has since continued investing, advising, and building in New York City. His journey from a precocious student conforming to expectations to a founder who deliberately chose the unconventional route is a blueprint for any young Asian entrepreneur wrestling with the tension between cultural duty and personal ambition.
 
 ---
 
-## Discussion Questions for Mentorship Sessions
+## Lessons for Mentees
 
-Use these with the GROW framework:
+### 1. Layoffs Are Launchpads
+Wong's layoff from Digg wasn't a failure — it was the catalyst for his most significant venture. When a traditional path closes, look for the door it opens.
 
-1. **Goal:** What is a "non-traditional" goal you're afraid to pursue? What would success look like?
-2. **Reality:** What cultural or family expectations feel in tension with your entrepreneurial aspirations?
-3. **Options:** If you had no constraints, what bold move would you make in the next year?
-4. **Way Forward:** What is one concrete step you can take this week to move toward your unconventional goal?
+### 2. Rebel with Purpose
+Wong didn't reject his upbringing out of anger; he rejected conformity out of ambition. The key is not to abandon your background but to choose which parts serve your vision and which parts limit it.
+
+### 3. Your Background Is an Edge, Not a Weight
+Being the youngest person in the room, coming from a different cultural context, having an accelerated education — these are not disadvantages. They are differentiators. Own them.
+
+### 4. Build for Moments, Not Interruptions
+Kiip's core insight — reward people at moments of achievement rather than interrupt them — is a metaphor for mentorship itself. Great mentors don't interrupt mentees' journeys; they show up at key moments with the right support.
+
+### 5. Raise Capital on Your Vision, Not Your Resume
+Wong raised $40M without a traditional track record. Investors backed his vision and conviction. If you believe in your idea deeply, the right backers will see that — even if your path doesn't look like theirs.
 
 ---
 
-## Sources
+## GROW Framework Applied to Brian Wong's Journey
 
-- Carnegie Corporation — *Great Immigrants: Lisa Su* (2020)
-- Pressfarm — *Lisa Su's Journey to AMD Leadership*
-- Austin Woman Magazine — *The Problem Solver: Lisa Su* (2020)
-- Wikipedia — *Lisa Su*
+| Stage | Wong's Experience |
+|-------|-------------------|
+| **Goal** | Wanted to build something of his own, not just be excellent within someone else's system |
+| **Reality** | Laid off from Digg; young; facing cultural expectations to pursue a "safe" career |
+| **Options** | Apply to another corporate job (traditional) OR start a mobile ad company (radical) |
+| **Way Forward** | Co-founded Kiip, raised capital, scaled to 10,000+ apps, and was acquired |
+
+---
+
+*This story is part of the Asian Entrepreneur Mentorship project — showing young Asian entrepreneurs that non-traditional paths can lead to extraordinary outcomes.*
